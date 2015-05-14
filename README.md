@@ -1,5 +1,11 @@
 # Pusher Python module
 
+## DEPRECATED!
+
+As of 14 May 2015, we're deprecating this fork. It was originally created In January of 2014 to flesh out the missing features of [the existing pusher-http-python library](https://github.com/rcrdclub/pusher_client_python/tree/94dcdd3a7cec266df86ae8d4355c5bb81505683c), but it seems that since then Pusher has done most of this on their own, and we're no longer able to merge back in cleanly.
+
+Going forward, use [their official library](https://github.com/pusher/pusher-http-python). Thanks for the memories!
+
 ## Installation
 
 This module has been tested with Python 2.6 and 2.7.

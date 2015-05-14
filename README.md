@@ -6,6 +6,8 @@ As of 14 May 2015, we're deprecating this fork. It was originally created In Jan
 
 Going forward, use [their official library](https://github.com/pusher/pusher-http-python). Thanks for the memories!
 
+![http://www.facebook4covers.com/upimg/covers/thanks-for-the-memories-facebook-covers.jpg](http://www.facebook4covers.com/upimg/covers/thanks-for-the-memories-facebook-covers.jpg)
+
 ## Installation
 
 This module has been tested with Python 2.6 and 2.7.
